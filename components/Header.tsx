@@ -41,7 +41,7 @@ export default function Header() {
               <Link
                 href="/contact"
                 className="bg-blue-600 text-white px-4 py-2 rounded-full font-semibold hover:bg-blue-700 transition-colors cursor-pointer shadow-md text-sm">
-                Let's Connect
+                Let&apos;s Connect
               </Link>
             </div>
 
@@ -74,7 +74,7 @@ export default function Header() {
                   href="/contact"
                   onClick={() => setIsMobileMenuOpen(false)}
                   className="bg-blue-600 text-white px-4 py-2.5 rounded-full font-semibold hover:bg-blue-700 transition-colors cursor-pointer text-center shadow-md mt-1 text-sm">
-                  Let's Connect
+                  Let&apos;s Connect
                 </Link>
               </div>
             </div>
