@@ -185,7 +185,7 @@ export default function TechStack() {
 
         <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-8 text-white text-center">
           <h3 className="text-2xl font-bold mb-3">
-            Let's Build Your Next AI Solution
+            Let&apos;s Build Your Next AI Solution
           </h3>
 
           <p className="text-lg opacity-90 mb-5 max-w-2xl mx-auto">
