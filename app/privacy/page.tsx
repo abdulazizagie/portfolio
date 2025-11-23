@@ -25,7 +25,7 @@ export default function PrivacyPolicy() {
             <div className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Overview</h2>
               <p className="text-gray-700 mb-4">
-                This Privacy Policy explains how Abdul Aziz ("I", "me", or "my") collects, uses, 
+                This Privacy Policy explains how Abdul Aziz (&quot;I&quot;, &quot;me&quot;, or &quot;my&quot;) collects, uses, 
                 and protects your personal information when you visit my portfolio website. 
                 As an AI Engineer dedicated to ethical technology practices, I take your privacy seriously.
               </p>
