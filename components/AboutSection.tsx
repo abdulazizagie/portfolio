@@ -9,7 +9,7 @@ export default function AboutSection() {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/no.jpg"
+                src="/IMG_2935.JPG"
                 alt="AI Developer Workspace"
                 className="w-full h-[500px] object-cover object-top"
               />
